@@ -1,0 +1,2 @@
+# Le0 network seed (public)
+le0-seed.duckdns.org

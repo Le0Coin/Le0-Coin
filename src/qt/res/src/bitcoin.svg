@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Le0 app mark — lime L + cyan 0 -->
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <circle cx="512" cy="512" r="480" fill="#14181F"/>
+  <circle cx="610" cy="500" r="205" fill="none" stroke="#2EE6D6" stroke-width="92"/>
+  <path fill="#A8FF3E" d="M250 230 L340 230 L340 620 L640 620 L640 710 L250 710 Z"/>
+</svg>
